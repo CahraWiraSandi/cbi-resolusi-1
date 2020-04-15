@@ -1,0 +1,5 @@
+CBI Resolusi
+- Konsitent untuk membuat konten 2x
+- Membuat platfrom untuk mengelola video
+- Membuat forum diskusi
+
